@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "ai-papers"
+  site-url: "https://melonkernel.github.io/ai-papers"
+  description: "Notebook implementations of AI-Papers"
+  repo-branch: main
+  repo-url: "https://github.com/melonkernel/ai-papers"
